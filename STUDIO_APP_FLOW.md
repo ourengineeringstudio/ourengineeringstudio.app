@@ -25,7 +25,7 @@ Discord #showcase に「企画カード」を投げる：
   - Made by OUR ENGINEERING
   - SNSのURL
     -  https://www.instagram.com/ourengineering/
-  -  <img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/e7c7ec9b-6a74-49be-a1fd-406b645167fa" />
+  -  <img width="300" alt="image" src="https://github.com/user-attachments/assets/e7c7ec9b-6a74-49be-a1fd-406b645167fa" />
 
 ---
 
