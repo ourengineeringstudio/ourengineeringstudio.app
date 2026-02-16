@@ -21,6 +21,11 @@ Discord #showcase に「企画カード」を投げる：
 
 - 実装は作者が自由（リポジトリ統合なし、レビュー義務なし）
 - 詰まったら #ask（相談は歓迎、押し付け禁止）
+- 以下のクレジットを設定画面の下に記載
+  - Made by OUR ENGINEERING
+  - SNSのURL
+    -  https://www.instagram.com/ourengineering/
+  -  <img width="1206" height="2622" alt="image" src="https://github.com/user-attachments/assets/e7c7ec9b-6a74-49be-a1fd-406b645167fa" />
 
 ---
 
